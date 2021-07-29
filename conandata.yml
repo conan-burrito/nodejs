@@ -1,0 +1,14 @@
+sources:
+    "14.17.3":
+      Windows:
+         "x86_64":
+              url: "https://nodejs.org/dist/v14.17.3/node-v14.17.3-win-x64.zip"
+              sha256: "170fb4f95539d1d7e1295fb2556cb72bee352cdf81a02ffb16cf6d50ad2fefbf"
+      Linux:
+          "x86_64":
+              url: "https://nodejs.org/dist/v14.17.3/node-v14.17.3-linux-x64.tar.xz"
+              sha256: "d659d78144042a1801f35dd611d0fab137e841cde902b2c6a821163a5e36f105"
+      Macos:
+          "x86_64":
+              url: "https://nodejs.org/dist/v14.17.3/node-v14.17.3-darwin-x64.tar.gz"
+              sha256: "522f85db1d1fe798cba5f601d1bba7b5203ca8797b2bc934ff6f24263f0b7fb2"
